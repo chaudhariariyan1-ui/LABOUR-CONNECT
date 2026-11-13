@@ -1,0 +1,6 @@
+{
+  "name": "ShramSetu",
+  "description": "All-India Labour Registration & Employment Platform connecting skilled and unskilled workers with verified employers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
